@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "workbench.statusBar.visible": true,
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": false
+}
